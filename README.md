@@ -1,5 +1,12 @@
-# Academic Project Page Template
-This is the template for our 2025 IROS paper [Quaternion Approximate Networks](https://cwru-aism.github.io/QUANpaper/)
+# Sheaf Cohomology for Neural Interpretability
+
+Project page for **Sheaf Cohomology for Neural Interpretability: Quantifying Cross-Context Semantic Consistency with Frozen Restriction Maps**
+
+Visit the project page: [https://cwru-aism.github.io/sheaf_io/](https://cwru-aism.github.io/sheaf_io/)
+
+## Abstract
+
+We propose a sheaf-theoretic framework to quantify whether neural features preserve their semantics across contexts (augmentations or layers). We learn a *frozen sheaf* once on a FIT set: linear restrictions on edges, transports on faces, and keep these maps fixed. This makes the cohomology groups H⁰/H¹ fixed properties of the ruler (cover+maps), while simple quadratic energies computed with the frozen maps become measurements on EVAL.
 
 
 Example project pages built using this template are:
